@@ -1,4 +1,18 @@
 ﻿Month,Year,Crude Oil Domestic First Purchase Price (Dollars per Barrel),Free on Board Cost of Crude Oil Imports (Dollars per Barrel),Landed Cost of Crude Oil Imports (Dollars per Barrel),"Refiner Acquisition Cost of Crude Oil, Domestic (Dollars per Barrel)","Refiner Acquisition Cost of Crude Oil, Imported (Dollars per Barrel)","Refiner Acquisition Cost of Crude Oil, Composite (Dollars per Barrel)"
+<<<<<<< HEAD,,,,,,,
+1,1973,,,,,,
+2,1973,,,,,,
+3,1973,,,,,,
+4,1973,,,,,,
+5,1973,,,,,,
+6,1973,,,,,,
+7,1973,,,,,,
+8,1973,,,,,,
+9,1973,,,,,,
+10,1973,,4.24,5.6,,,
+11,1973,,5.28,6.36,,,
+12,1973,,6.34,7.57,,,
+=======,,,,,,,
 1,1973,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
 2,1973,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
 3,1973,Not Available,Not Available,Not Available,Not Available,Not Available,Not Available
@@ -11,6 +25,7 @@
 10,1973,Not Available,4.24,5.6,Not Available,Not Available,Not Available
 11,1973,Not Available,5.28,6.36,Not Available,Not Available,Not Available
 12,1973,Not Available,6.34,7.57,Not Available,Not Available,Not Available
+>>>>>>> 1c6ce3d2144039e69d02da532cdceb4ad16a5629,,,,,,,
 1,1974,6.95,9.27,10.45,6.72,9.59,7.46
 2,1974,6.87,10.74,12.6,7.08,12.45,8.57
 3,1974,6.77,10.83,12.57,7.05,12.73,8.68
@@ -564,4 +579,8 @@
 11,2019,54.96,51.8,54.44,59.42,55.27,57.88
 12,2019,58.41,51.48,53.66,62.23,56.85,60.27
 1,2020,56.86,48.98,51.88,60.36,53.96,57.94
+<<<<<<< HEAD,,,,,,,
+2,2020,,,,54.72,48.47,52.02
+=======,,,,,,,
 2,2020,Not Available,Not Available,Not Available,54.72,48.47,52.02
+>>>>>>> 1c6ce3d2144039e69d02da532cdceb4ad16a5629,,,,,,,
