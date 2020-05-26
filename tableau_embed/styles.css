@@ -1,0 +1,61 @@
+body {
+  /* Positioning */
+  margin-bottom: 150px;
+
+  /* Typography */
+  font-family: Verdana, sans-serif;
+
+  /* Visual */
+  background-color: #ededed;
+}
+
+
+/* ----DESCRIPTION START---- */
+.description-header {
+  /* Positioning */
+  margin-bottom: 33px;
+  font-family: Verdana, sans-serif;
+
+  /* Typography */
+  font-size: 40px;
+  color: #1d2b68;
+}
+
+.description {
+  margin-bottom: 33px;
+  font-family: Verdana, sans-serif;
+
+  /* Typography */
+  font-size: 32px;
+  color: #1d2b68;
+}
+
+.tableauPlaceholder {
+
+  padding: 30px;
+  position: center;
+  margin-bottom: 33px;
+}
+
+.summaryimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.epa_ols {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%;
+  margin-bottom: 33px;
+}
+
+.ue_ols {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 97%;
+  margin-bottom: 33px;
+}
