@@ -14,11 +14,12 @@ Explore and analyze how oil prices impact various economic factors and environme
 
 
 ## Dataset Sources
-* [Pollution Dataset - EPA]()
-* [Industry Dataset - Census]()
-* [DOW Stock Dataset - Yahoo Finance]()
-* [Commodity Price Dataset]()
-* [Pipeline Accidents - Kaggle]()
+* [Pollution Dataset - EPA]
+* [Industry Dataset - Census]
+* [DOW Stock Dataset - Yahoo Finance]
+* [Commodity Price Dataset]
+* [Pipeline Accidents - Kaggle]
+* [Traffic Accidents - NHSTA]
 
 ## GitHub Repository
 https://github.com/cjsessa/Whose_pipeline_is_it_anyway
