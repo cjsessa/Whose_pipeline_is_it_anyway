@@ -30,32 +30,23 @@ body {
   color: #1d2b68;
 }
 
-.tableauPlaceholder {
+.paragraph {
+  font-family: Verdana, sans-serif;
+}
 
-  padding: 30px;
-  position: center;
+.tableauPlaceholder {
+  padding: 35px;
   margin-bottom: 33px;
 }
 
 .summaryimage {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 35%;
+  margin-bottom: 33px;
 }
 
 .epa_ols {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 65%;
   margin-bottom: 33px;
 }
 
 .ue_ols {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 97%;
   margin-bottom: 33px;
 }
