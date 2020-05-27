@@ -23,12 +23,10 @@ Explore and analyze how oil prices impact various economic factors and environme
 * [DOW Stock Dataset - Yahoo Finance]
 * [Pipeline Accidents - Kaggle]
 * [Traffic Accidents - NHSTA]
-* [Commodity Price Dataset - FRED]
-* []
-* []
-* []
-* []
-
+* [Commodity (Gold, Wheat, Soybean) Price Datasets - FRED]
+* [Inflation - FRED]
+* [Unemployment - FRED]
+* [GDP - FRED]
 
 ## GitHub Repository
 https://github.com/cjsessa/Whose_pipeline_is_it_anyway
